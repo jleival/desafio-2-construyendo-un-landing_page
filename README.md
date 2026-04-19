@@ -7,7 +7,8 @@ Este desafío fue realizado **sin Bootstrap ni frameworks externos**, utilizando
 ## 🚀 Demo del Proyecto
 
 🔗 **GitHub Pages:**
-*https://github.com/jleival/desafio-2-construyendo-un-landing_page/*
+*https://jleival.github.io/desafio-2-construyendo-un-landing_page/*
+
 
 ---
 ## 📌 Descripción
